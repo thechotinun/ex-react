@@ -1,0 +1,22 @@
+.box-form-login {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-form-login .login-form {
+    max-width: 300px;
+  }
+
+.box-form-login .login-form-forgot {
+    float: right;
+}
+
+.box-form-login .ant-col-rtl .login-form-forgot {
+    float: left;
+}
+
+.box-form-login .login-form-button {
+    width: 100%;
+}
